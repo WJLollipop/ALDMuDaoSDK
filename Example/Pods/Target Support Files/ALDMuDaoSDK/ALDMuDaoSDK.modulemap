@@ -1,0 +1,6 @@
+framework module ALDMuDaoSDK {
+  umbrella header "ALDMuDaoSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

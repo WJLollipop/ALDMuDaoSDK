@@ -1,0 +1,22 @@
+{
+  "name": "ALDMuDaoSDK",
+  "version": "0.1.0",
+  "summary": "A short description of ALDMuDaoSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18042015784@163.com/ALDMuDaoSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18042015784@163.com": "frank204866@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/18042015784@163.com/ALDMuDaoSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ALDMuDaoSDK/Classes/**/*"
+}

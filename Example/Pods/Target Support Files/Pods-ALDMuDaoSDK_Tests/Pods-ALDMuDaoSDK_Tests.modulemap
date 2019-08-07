@@ -1,0 +1,6 @@
+framework module Pods_ALDMuDaoSDK_Tests {
+  umbrella header "Pods-ALDMuDaoSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
